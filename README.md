@@ -1,3 +1,3 @@
-# web_book
+# A book management system
 
-Welcom to the Interactive-Book-Library-System!
+Welcome to the Interactive BookLibrary System!
