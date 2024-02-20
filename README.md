@@ -39,7 +39,7 @@ The main page where users can browse books and access different categories.
 Users can view detailed information about the book here.
 
 ### Responsive Search Feature
-![localhost_book_server_books php(iPhone 12 Pro)](https://github.com/danniyh/Responsive-Book-Library-System/assets/134665097/d1f8e75e-d5b7-4dfc-9546-367afc377943)
+![123](https://github.com/danniyh/Responsive-Book-Library-System/assets/134665097/c63a2f23-d431-49b4-b7bf-d18231b45fff)
 Quickly find books with our responsive search bar, optimized for all devices.
 
 ### Database Interface
