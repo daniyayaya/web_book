@@ -40,6 +40,7 @@ Users can view detailed information about the book here.
 
 ### Responsive Search Feature
 ![123](https://github.com/danniyh/Responsive-Book-Library-System/assets/134665097/c63a2f23-d431-49b4-b7bf-d18231b45fff)
+
 Quickly find books with our responsive search bar, optimized for all devices.
 
 ### Database Interface
