@@ -32,17 +32,18 @@ New users can create an account using this form.
 
 ### Home Page
 ![主页](https://github.com/danniyh/Interactive-Book-Library-System/assets/134665097/4d501b54-91f9-42c6-a87b-dde0f2e9ff66)
-
 The main page where users can browse books and access different categories.
 
 ### Book Details
 ![书籍信息](https://github.com/danniyh/Interactive-Book-Library-System/assets/134665097/288980c7-95c8-4473-ad99-ebd4948ed9ca)
-
 Users can view detailed information about the book here.
+
+### Responsive Search Feature
+![localhost_book_server_books php(iPhone 12 Pro)](https://github.com/danniyh/Responsive-Book-Library-System/assets/134665097/d1f8e75e-d5b7-4dfc-9546-367afc377943)
+Quickly find books with our responsive search bar, optimized for all devices.
 
 ### Database Interface
 ![服务器数据库界面](https://github.com/danniyh/Interactive-Book-Library-System/assets/134665097/17c46749-db31-4124-b116-0a3e461d0623)
-
 This is the database view where all books are listed with their details.
 
 ## Installation
